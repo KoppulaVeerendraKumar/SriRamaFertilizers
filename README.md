@@ -10,7 +10,7 @@ A responsive website built to support and expand **SRI Rama Fertilizers**, a fam
 
 The goal of this project is to:
 
-- Digitally showcase our fertilizer products
+- Digitally showcase our fertilizer 
 - Improve visibility among local farmers
 - Share contact and location details
 - Build trust and online presence for our family business
