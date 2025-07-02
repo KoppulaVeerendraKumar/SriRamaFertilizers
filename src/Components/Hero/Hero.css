@@ -75,7 +75,8 @@
     /* margin: 15px auto 30px; */
   }
   .hero-text{
-    top: 32%;
+    top: 35%;
+    width: 100%;
   }
   .hero-image{
     height: 60svh;
